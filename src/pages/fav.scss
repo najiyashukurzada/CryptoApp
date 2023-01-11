@@ -1,0 +1,22 @@
+.blue{
+    display: flex;
+    flex-direction: column;
+}
+.fav{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 20px;
+    background-color: rgb(171, 197, 206);
+    button{
+        border: none;
+        background-color: rgb(106, 163, 163);
+        color: white;
+        border-radius: 10px;
+        padding: 10px;
+        margin-left: 20px;
+        font-size: 13px;
+        font-weight: 700;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+}

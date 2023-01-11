@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm422-073.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=ef48caa87980815f77343e682d6324ee");
+    background-size: 100% 100vh;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 60px;
+    .link{
+        text-decoration: none;
+        color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 20px;
+        margin-left: 20px;
+    }
+}

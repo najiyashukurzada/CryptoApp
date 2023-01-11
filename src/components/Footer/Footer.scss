@@ -1,0 +1,11 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    background-color: lightblue;
+    opacity: 0.5;
+    margin-top: 30px;
+    width: 100%;
+    img{
+        width: 300px;
+    }
+}
